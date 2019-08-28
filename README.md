@@ -21,4 +21,4 @@ As my major in under-graduation is Computer Science Engineering the basics of th
 
 ## Contributors
 My name is RethimaReddy Polam pursuing masters at Northwest Missouri State University majoring in Applied Computer Science. My roots are from India and this is the first time coming to USA which is my dream come true. When I entered here I was really nervous about the culture and friends. But now I am truely happy to have these friends who made me comfortable and feel home. So, I just want to include this image which shows all our smiles.
-
+![](https://github.com/Rethima-Reddy/about-me/blob/master/Bday.jpeg)
