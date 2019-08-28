@@ -13,5 +13,8 @@ So the most common web browser are
 ## Recommended Resources
 As my major in under-graduation is Computer Science Engineering the basics of these languages are taught in regular classes and out of my curiosity towards coding I have fund some useful resources which I used as a reference when I faced any problem. Below are the resource that I refered when writing the code. 
 - [Code acadamy](https://www.codecademy.com/learn/paths/web-development)
-- [w3schools](https://www.w3schools.com)
+- [W3schools](https://www.w3schools.com)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+## Contributors
+My name is RethimaReddy Polam pursuing masters at Northwest Missouri State University majoring in Applied Computer Science. My roots are from India and this is first time entering USA which is my dream come true. When I entered here I was really nervous about the culture and friends. But now I am truely happy to have these friends who made me comfortable and feel home. So, I just want to include this image which shows all our smiles.
+
