@@ -11,3 +11,7 @@ So the most common web browser are
 - [firefox](https://www.mozilla.org/en-US/firefox/)
 - [Microsoft edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
 ## Recommended Resources
+As my major in under-graduation is Computer Science Engineering the basics of these languages are taught in regular classes and out of my curiosity towards coding I have fund some useful resources which I used as a reference when I faced any problem. Below are the resource that I refered when writing the code. 
+- [Code acadamy](https://www.codecademy.com/learn/paths/web-development)
+- [w3schools](https://www.w3schools.com)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
